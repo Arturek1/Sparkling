@@ -2465,3 +2465,27 @@ button[type=submit],
     transform: translateX(-50%);
     width: auto;
 }
+
+.myip {
+    font-size: 2.15rem;
+}
+
+.ip-address {
+    font-weight: bold;
+}
+
+#mapid { 
+    height: 270px; 
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.widget .wp-post-image {
+    height: 80px;
+    width: 100px;
+}
+
+.sidepost .title {
+    font-weight: bold;
+    color: black;
+}
